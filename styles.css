@@ -178,7 +178,7 @@ body { margin: 0; }
   overflow: hidden;
   background:
     linear-gradient(rgba(92, 68, 53, 0.42), rgba(92, 68, 53, 0.42)),
-    url('https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=1800&q=80') center/cover no-repeat;
+    url('/images/hero.jpg') center/cover no-repeat;
   transition: filter 0.35s ease;
 }
 
